@@ -6,7 +6,7 @@ categories: documentation
 tags: [greyblog,about us]
 image: bg-index.jpg
 ---
-
+Photo by Stewart Nimmo used with creative commons license CC BY-SA 4.0
 
 ## Who We Are
 
