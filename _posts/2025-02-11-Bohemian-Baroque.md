@@ -4,16 +4,26 @@ title: "Grey Rates Crisis"
 author: "Grey Blog"
 categories: documentation
 tags: [documentation,sample]
-image: baroque.jpg
+image: GreyRatesCrisis.jpg
 ---
 
-# Bohemian Baroque 
+# Grey Rates Crisis
 
-Do not miss this fabulous chance to experience Baroque Music in Greymouth / Māwhera
+The Greymouth Star has reported rate increases for the Grey District that will average at approximately 14%.
 
-Details in poster
+As the Grey District Council once again scrambles to deflect and obfuscate we the ratepayers of Greymouth / Māwhera face completely shocking and unrealistic rate increases
 
-<img class="img-fluid" src="https://greyblog.github.io/assets/img/b-baroque.jpg" alt="Baroque Image">
+The council has tried to blame historic under-spending and property value increases.
+
+Let us be very clear the average increase to rates has nothing to do with the property value increase. Property values affect your individual rate but not the average rates increase. This appears to be deliberate obfuscation by the Grey District Council.
+
+The average rate increase of 14% is a direct result of the Mayor and Councillors not controlling expenditure and voting for vanity projects like a new library above much needed infrastructure.
+
+The average rate increase of 14% shows a Mayor and Council that have failed in their governance of our finances. Have shown they are incapable of making good decisions and good appointments.
+
+Details of forecast rate rises as according to the Greymouth Star 1st May 2025 - for full article see Greymouth Star
+
+<img class="img-fluid" src="https://greyblog.github.io/assets/img/grey-star-1may.jpg" alt="Greymouth Rates">
 
 <span style="color:white">```js client</span>
 <script>
