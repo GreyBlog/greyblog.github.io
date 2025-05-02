@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bohemian Baroque - 20th Feb 2025 - Beauty Joy Passion Intensity Colour"
+title: "Grey Rates Crisis"
 author: "Grey Blog"
 categories: documentation
 tags: [documentation,sample]
