@@ -6,12 +6,6 @@
       {{ page.title }} | {{ site.title }}
     {% endif %}
   </title>
-      {% if page.keywords %}
-<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
-{% endif %}
-{% if page.description %}
-<meta name="description" content="{{ page.keywords | join: ', ' | escape }}">
-{% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">

@@ -3,8 +3,51 @@ layout: post
 title: "Grey Rates Crisis"
 author: "Grey Blog"
 categories: documentation
-tags: [documentation,sample]
+tags: Tania Gibson, Rates
 image: GreyRatesCrisis.jpg
+keywords:
+  - Tania Gibson
+  - GDC
+  - Grey District Council
+  - Grey
+  - Mawhera
+  - Local Government
+  - Govt
+  - greydc.govt.nz
+  - Timothy Mora
+  - Tim Mora
+  - Jack O'Connor
+  - Peter Davy
+  - Allan Gibson
+  - Robert Mallinson
+  - Kate Kennedy
+  - John Canning
+  - Rex MacDonald
+  - Francois Tumahai
+  - Rates
+  - Ratepayers
+  - rate payers
+description:
+  - Tania Gibson
+  - GDC
+  - Grey District Council
+  - Grey
+  - Mawhera
+  - Local Government
+  - Govt
+  - greydc.govt.nz
+  - Timothy Mora
+  - Tim Mora
+  - Jack O'Connor
+  - Peter Davy
+  - Allan Gibson
+  - Robert Mallinson
+  - Kate Kennedy
+  - John Canning
+  - Rex MacDonald
+  - Francois Tumahai
+  - Rates
+  - Ratepayers
 ---
 
 # Grey Rates Crisis
@@ -23,7 +66,7 @@ The average rate increase of 14% shows a Mayor and Council that have failed in t
 
 Details of forecast rate rises as according to the Greymouth Star 1st May 2025 - for full article see Greymouth Star
 
-<img class="img-fluid" src="https://greyblog.github.io/assets/img/grey-star-1may.jpg" alt="Greymouth Rates">
+<img class="img-fluid" src="https://greyblog.github.io/assets/img/grey-star-1may.jpg" alt="Greymouth Rates, Tania Gibson, Grey District Council, GDC, Grey, Mawhera, Local Government, Govt, greydc.govt.nz, Timothy Mora, Tim Mora, Jack O'Connor, Peter Davy, Allan Gibson, Robert Mallinson, Kate Kennedy, John Canning, Rex MacDonald, Francois Tumahai, Rates, Ratepayers, rate payers">
 
 <span style="color:white">```js client</span>
 <script>
