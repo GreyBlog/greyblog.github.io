@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Welcome to Grey Blog!"
 author: "Grey Blog"
@@ -70,5 +70,7 @@ let idcomments_post_url = 'https://greyblog.github.io/getting-started.html';
 
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+
+If you wish to post anonymously there is no need to fill in the email field.
 
 If you have trouble posting a comment please use a chrome browser. Comments may not work with Firefox or other browsers, we are working to rectify this.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Library Flip-Flop Dysfunctional Council"
 author: "Grey Blog"
@@ -6,63 +6,59 @@ categories: documentation
 tags: Tania Gibson, Rates
 image: library-flipflop.jpg
 keywords:
-  - Grey Library
-  - Library
-  - Tania Gibson
-  - GDC
-  - Grey District Council
-  - Grey
-  - Mawhera
-  - Local Government
-  - Govt
-  - greydc.govt.nz
-  - Timothy Mora
-  - Tim Mora
-  - Jack O'Connor
-  - Peter Davy
-  - Allan Gibson
-  - Robert Mallinson
-  - Kate Kennedy
-  - John Canning
-  - Rex MacDonald
-  - Francois Tumahai
-  - Rates
-  - Ratepayers
-  - rate payers
+ - Grey Library
+ - Library
+ - Tania Gibson
+ - GDC
+ - Grey District Council
+ - Grey
+ - Mawhera
+ - Local Government
+ - Govt
+ - greydc.govt.nz
+ - Timothy Mora
+ - Tim Mora
+ - Jack O'Connor
+ - Peter Davy
+ - Allan Gibson
+ - Robert Mallinson
+ - Kate Kennedy
+ - John Canning
+ - Rex MacDonald
+ - Francois Tumahai
+ - Rates
+ - Ratepayers
+ - rate payers
 description:
-  - Grey Library
-  - Library
-  - Tania Gibson
-  - GDC
-  - Grey District Council
-  - Grey
-  - Mawhera
-  - Local Government
-  - Govt
-  - greydc.govt.nz
-  - Timothy Mora
-  - Tim Mora
-  - Jack O'Connor
-  - Peter Davy
-  - Allan Gibson
-  - Robert Mallinson
-  - Kate Kennedy
-  - John Canning
-  - Rex MacDonald
-  - Francois Tumahai
-  - Rates
-  - Ratepayers
+ - Grey Library
+ - Library
+ - Tania Gibson
+ - GDC
+ - Grey District Council
+ - Grey
+ - Mawhera
+ - Local Government
+ - Govt
+ - greydc.govt.nz
+ - Timothy Mora
+ - Tim Mora
+ - Jack O'Connor
+ - Peter Davy
+ - Allan Gibson
+ - Robert Mallinson
+ - Kate Kennedy
+ - John Canning
+ - Rex MacDonald
+ - Francois Tumahai
+ - Rates
+ - Ratepayers
 ---
 
 # Library Flip-Flop
 
 We at Greyblog always like to congratulate GDC when they do the right thing. And there is no doubt that not using a CCO to build and manage the New Library is the right thing.
 
-The question we have at Greyblog is Why did it take the Mayor and Councillors so long to realise this? And why didn’t they listen to the ratepayers who opposed the CCO from the very beginning?
-
-A number of ratepayers submitted against the formation of a CCO some were treated with barely veiled contempt by their elected representatives.
-
-Councillors were heard to make comments such as “they don’t know what they are talking about”.
+The question we have at Greyblog is Why did it take the Mayor and Councillors so long to realise this? And why didnthey don.
 
 It seems that the ratepayers did know what they were talking about, and it was the Councillors who were wrong.
 
@@ -83,5 +79,7 @@ let idcomments_post_url = 'https://greyblog.github.io/library-flip-flop.html';
 
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+
+If you wish to post anonymously there is no need to fill in the email field.
 
 If you have trouble posting a comment please use a chrome browser. Comments may not work with Firefox or other browsers, we are working to rectify this.
