@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Welcome to Grey Blog!"
 author: "Grey Blog"
@@ -63,16 +63,12 @@ If anyone wishes to contact us use the contact link at the top of the page.
 
 <span style="color:white">```js client</span>
 <script>
-var idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
-var idcomments_post_id;
-var idcomments_post_url;
+let idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
+let idcomments_post_id = 'https://greyblog.github.io/getting-started.html';
+let idcomments_post_url = 'https://greyblog.github.io/getting-started.html'; 
 </script>
-<span id="IDCommentsPostTitle" style="display:none"></span>
-<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 
-<script>
-var idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
-var idcomments_post_id;
-var idcomments_post_url;
-</script>
+<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+
+If you have trouble posting a comment please use a chrome browser. Comments may not work with Firefox or other browsers, we are working to rectify this.
