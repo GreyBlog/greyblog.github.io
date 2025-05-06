@@ -6,7 +6,7 @@ categories: documentation
 tags: Tania Gibson, Rates
 image: library-flipflop.jpg
 keywords:
- - Grey Library
+ - Grey District Library
  - Library
  - Tania Gibson
  - GDC
@@ -30,7 +30,7 @@ keywords:
  - Ratepayers
  - rate payers
 description:
- - Grey Library
+ - Grey District Library
  - Library
  - Tania Gibson
  - GDC
