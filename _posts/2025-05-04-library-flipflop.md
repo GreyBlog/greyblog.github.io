@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Library Flip-Flop Dysfunctional Council"
 author: "Grey Blog"
@@ -58,7 +58,11 @@ description:
 
 We at Greyblog always like to congratulate GDC when they do the right thing. And there is no doubt that not using a CCO to build and manage the New Library is the right thing.
 
-The question we have at Greyblog is Why did it take the Mayor and Councillors so long to realise this? And why didnthey don.
+The question we have at Greyblog is Why did it take the Mayor and Councillors so long to realise this? And why didn’t they listen to the ratepayers who opposed the CCO from the very beginning?
+
+A number of ratepayers submitted against the formation of a CCO some were treated with barely veiled contempt by their elected representatives.
+
+Councillors were heard to make comments such as “they don’t know what they are talking about”.
 
 It seems that the ratepayers did know what they were talking about, and it was the Councillors who were wrong.
 
