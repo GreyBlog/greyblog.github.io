@@ -62,7 +62,7 @@ The question we have at Greyblog is Why did it take the Mayor and Councillors so
 
 A number of ratepayers submitted against the formation of a CCO some were treated with barely veiled contempt by their elected representatives.
 
-Councillors were heard to make comments such as “they don’t know what they are talking about”.
+Councillors were heard to make comments such as “they don’t know what they are talking about”. 
 
 It seems that the ratepayers did know what they were talking about, and it was the Councillors who were wrong.
 

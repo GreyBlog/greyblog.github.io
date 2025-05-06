@@ -53,7 +53,7 @@ Photo by Stewart Nimmo used with creative commons license CC BY-SA 4.0
 
 ## Who We Are
 
-We are dedicated to giving the people of the Grey District an open forum where they can discuss matters of interest. Given that a powerful few in the Grey District have used their power and influence to curtail free-speech we have made this blog available to anyone to comment anonymously so that there can be no retribution from the powerful.
+We are dedicated to giving the people of the Grey District an open forum where they can discuss matters of interest. Given that it can often be difficult to speak out in the Grey District we have made this blog available to anyone to comment anonymously. 
 
 Although this is a free-speech forum we ask that you be polite when possible and do not engage in hate speech or anything that could be construed as illegal. We will not be moderating comments but if we are made aware of a comment that breaks these rules we will remove it as soon as we possibly can.
 
