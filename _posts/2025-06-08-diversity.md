@@ -81,8 +81,8 @@ What are the key dates for the 2025 local elections?
 <span style="color:white">```js client</span>
 <script>
 let idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
-let idcomments_post_id = 'https://greyblog.github.io/chums.html';
-let idcomments_post_url = 'https://greyblog.github.io/chums.html'; 
+let idcomments_post_id = 'https://greyblog.github.io/diversity.html';
+let idcomments_post_url = 'https://greyblog.github.io/diversity.html'; 
 </script>
 
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
