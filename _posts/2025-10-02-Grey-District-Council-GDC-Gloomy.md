@@ -62,7 +62,7 @@ The difference between $2.55 and $3.24 is 27% - so at least a 27% increase in Li
 If we include the fact of an average 13% increase in rates then the actual increase in cost is likely to be more than 27% as council total revenue will have risen significantly.
 That is why GDC should provide the actual dollar amounts so we can be sure how much the New Library is going to cost us going forward? This isn't a one-off cost, these are ongoing costs.
 
-These are costs that would have been known before embarking on the project and yet the Mayor and Councillors led many people to believe that there would be no increase in operating costs - despite the truth being that there were always going to be significant increase in the annual cost to ratepayers.
+These are costs that would have been known before embarking on the project and yet the Mayor and Councillors led many people to believe that there would be no increase in operating costs - despite the truth being that there were always going to be significant increases in the annual cost to ratepayers.
 
 Of course it is nice to have a new library but the question every ratepayer and Councillor should be asking - 𝙖𝙩 𝙬𝙝𝙖𝙩 𝙘𝙤𝙨𝙩 𝙙𝙤 𝙬𝙚 𝙣𝙚𝙚𝙙 𝙖 𝙣𝙚𝙬 𝙡𝙞𝙗𝙧𝙖𝙧𝙮?
 
