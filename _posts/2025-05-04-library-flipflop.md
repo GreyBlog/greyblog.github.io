@@ -31,7 +31,6 @@ keywords:
  - rate payers
 description:
  - Grey District Library
- - Library
  - Tania Gibson
  - GDC
  - Grey District Council
@@ -40,16 +39,6 @@ description:
  - Local Government
  - Govt
  - greydc.govt.nz
- - Timothy Mora
- - Tim Mora
- - Jack O'Connor
- - Peter Davy
- - Allan Gibson
- - Robert Mallinson
- - Kate Kennedy
- - John Canning
- - Rex MacDonald
- - Francois Tumahai
  - Rates
  - Ratepayers
 ---
@@ -77,8 +66,8 @@ This surely meets the definition of a Dysfunctional Council
 <span style="color:white">```js client</span>
 <script>
 let idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
-let idcomments_post_id = 'https://greyblog.github.io/library-flip-flop.html';
-let idcomments_post_url = 'https://greyblog.github.io/library-flip-flop.html'; 
+let idcomments_post_id = 'https://greyblog.github.io/flipflop.html';
+let idcomments_post_url = 'https://greyblog.github.io/flipflop.html'; 
 </script>
 
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
