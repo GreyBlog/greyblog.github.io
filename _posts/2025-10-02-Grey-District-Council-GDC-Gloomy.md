@@ -68,6 +68,8 @@ Of course it is nice to have a new library but the question every ratepayer and 
 
 It seems we now have a Council addicted to spending - unable to find savings or to live within budget? 
 
+(In the absence of any further information from GDC we believe these figures and calculations to be accurate if we receive more data we will happily update the blog-post)
+
 
 
 
