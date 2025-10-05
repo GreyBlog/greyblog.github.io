@@ -75,6 +75,8 @@ We suspect many Grey District Voters will be put off by Richard's more outlandis
 
 Whichever way you plan to vote in this election either for change or the status quo, do make sure you vote. Our democracy depends on you having a say - and if that isn't enough incentive then remember the people you vote for will be setting your rates for the years to come
 
+(Information regarding Richard was obtained from https://policy.nz/2025/grey-district-council-mayoral/candidates information which we believe he submitted himself. Unfortunately Tania Gibson has not outlined her policy in this location so we will endeavour to write a blog/opinion on Tania Gibson in the near future if we can locate her policy ideas. This blog is an opinion only and not guidance as to how to vote)
+
 
 <video id="sampleMovie" preload="none" controls="controls"
                               poster="https://greyblog.github.io/assets/img/richard03.jpg"
