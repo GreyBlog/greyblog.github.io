@@ -78,6 +78,7 @@ Whichever way you plan to vote in this election either for change or the status 
 (Information regarding Richard was obtained from https://policy.nz/2025/grey-district-council-mayoral/candidates information which we believe he submitted himself. Unfortunately Tania Gibson has not outlined her policy in this location so we will endeavour to write a blog/opinion on Tania Gibson in the near future if we can locate her policy ideas. This blog is an opinion only and not guidance as to how to vote)
 
 
+
 <video id="sampleMovie" preload="none" controls="controls"
                               poster="https://greyblog.github.io/assets/img/richard03.jpg"
                               width="640" height="360"><source src="https://greyblog.github.io/assets/img/richard.mp4"
