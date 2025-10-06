@@ -76,7 +76,7 @@ Whichever way you plan to vote in this election either for change or the status 
 
 <video id="sampleMovie" preload="none" controls="controls"
                               poster="https://greyblog.github.io/assets/img/tania.jpg"
-                              width="640" height="360"><source src="https://greyblog.github.io/assets/img/tania.mp4"
+                              width="640" height="360"><source src="https://greyblog.github.io/assets/img/tania01.mp4"
                                 type="video/mp4" alt="Richard Osmaston, Tania Gibson, Grey District Council, GDC, Grey, Mawhera, Local Government, Govt, greydc.govt.nz, Timothy Mora, Tim Mora, Jack O'Connor, Peter Davy, Allan Gibson, Robert Mallinson, Kate Kennedy, John Canning, Rex MacDonald, Francois Tumahai, Rates, Ratepayers, rate payers"></video>
 
 <span style="color:white">```js client</span>
