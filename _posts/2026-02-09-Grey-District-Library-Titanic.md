@@ -4,7 +4,7 @@ title: "Deck Chairs on the Titanic"
 author: "Grey Blog"
 categories: documentation
 tags: Grey District Council, GDC, Library, Rates
-image: library-titanic01.png
+image: library-titanic02.png
 keywords:
   - Library
   - Tania Gibson
