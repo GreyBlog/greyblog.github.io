@@ -54,8 +54,8 @@ It seems Mayor Gibson wants to hunt with the hounds and run with the fox. On one
 <span style="color:white">```js client</span>
 <script>
 let idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
-let idcomments_post_id = 'https://greyblog.github.io/Grey-District-Library-Titanic.html';
-let idcomments_post_url = 'https://greyblog.github.io/Grey-District-Library-Titanic.html'; 
+let idcomments_post_id = 'https://greyblog.github.io/Tania-Gibson-Glass-Houses';
+let idcomments_post_url = 'https://greyblog.github.io/Tania-Gibson-Glass-Houses'; 
 </script>
 
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
