@@ -12,6 +12,18 @@
 {% if page.description %}
 <meta name="description" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
+{% if page.og_image %}
+<meta name="og_image" content="{{ page.og_image | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_width %}
+<meta name="og_width" content="{{ page.og_width | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_height %}
+<meta name="og_height" content="{{ page.og_height | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_type %}
+<meta name="og_type" content="{{ page.og_type | join: ', ' | escape }}">
+{% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
