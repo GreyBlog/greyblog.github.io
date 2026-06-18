@@ -2,9 +2,13 @@
 layout: post
 title: "Glass Houses and Water Worries: The Mayor’s Double Standard"
 author: "Grey Blog"
+og_image: "https://greyblog.github.io/assets/img/throwing_stones01.jpeg"
+og_width: "1200"
+og_height: "630"
+og_type: "image/jpeg"
 categories: documentation
 tags: Grey District Council, GDC, Water, Tania Gibson, Hypocrisy
-image: throwing_stones01.png
+image: throwing_stones01.jpeg
 keywords:
   - Library
   - Tania Gibson
