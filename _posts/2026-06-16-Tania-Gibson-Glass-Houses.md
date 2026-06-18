@@ -2,13 +2,13 @@
 layout: post
 title: "Glass Houses and Water Worries: The Mayor’s Double Standard"
 author: "Grey Blog"
-og_image: "https://greyblog.github.io/assets/img/0123.jpeg"
+og_image: "https://greyblog.github.io/assets/img/throwing_stones01.png"
 og_width: "1200"
 og_height: "630"
-og_type: "image/jpeg"
+og_type: "image/png"
 categories: documentation
 tags: Grey District Council, GDC, Water, Tania Gibson, Hypocrisy
-image: 0123.jpeg
+image: throwing_stones01.png
 keywords:
   - Library
   - Tania Gibson
@@ -49,7 +49,7 @@ It seems Mayor Gibson wants to hunt with the hounds and run with the fox. On one
 
 
 
-<img class="img-fluid" src="https://greyblog.github.io/assets/img/0123.png" alt="Greymouth Rates, Tania Gibson, Grey District Council, GDC, Grey, Mawhera, Local Government, Govt, greydc.govt.nz, Timothy Mora, Tim Mora, Jack O'Connor, Peter Davy, Allan Gibson, Robert Mallinson, Kate Kennedy, John Canning, Rex MacDonald, Francois Tumahai, Rates, Ratepayers, rate payers">
+<img class="img-fluid" src="https://greyblog.github.io/assets/img/throwing_stones01.png" alt="Greymouth Rates, Tania Gibson, Grey District Council, GDC, Grey, Mawhera, Local Government, Govt, greydc.govt.nz, Timothy Mora, Tim Mora, Jack O'Connor, Peter Davy, Allan Gibson, Robert Mallinson, Kate Kennedy, John Canning, Rex MacDonald, Francois Tumahai, Rates, Ratepayers, rate payers">
 
 <span style="color:white">```js client</span>
 <script>
