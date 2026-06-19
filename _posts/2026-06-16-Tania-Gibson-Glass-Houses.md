@@ -35,7 +35,7 @@ keywords:
 description:
   - "Glass Houses and Water Worries: The Mayor’s Double Standard"
 ---
-[!Tania Gibson]({{ site.baseurl }}/assets/img/throwing_stones.png)](https://greyblog.github.io/Tania-Gibson-Glass-Houses) 
+[![Tania Gibson]({{ site.baseurl }}/assets/img/throwing_stones.png)](https://greyblog.github.io/Tania-Gibson-Glass-Houses) 
 People who live in glass houses should not throw stones, yet Mayor Tania Gibson has been busy hurling them at Taylorville Resource Park (TRP) with remarkable vigour. For some time, she has been a vocal protagonist warning Grey District residents about the alleged threat TRP poses to our local water supply. Yet, while pointing fingers downstream, she has completely overlooked that her own Grey District Council is now facing legal action over allegedly failing to supply safe drinking water.
 
 The irony deepens as TRP has officially filed a Statement of Claim in the High Court in Christchurch, suing Mayor Gibson for defamation. The lawsuit centres on statements made by the Mayor implying that the park’s operations were polluting the Grey River and directly affecting the quality of the Council’s drinking water intake. In their claim, TRP argues that Gibson’s public comments—specifically regarding turbidity and pollution levels in the river—were false and damaging to their reputation as a business.
