@@ -8,7 +8,7 @@ og_height: "630"
 og_type: "image/png"
 categories: documentation
 tags: Grey District Council, GDC, Water, Tania Gibson, Hypocrisy
-image: throwing_stones01.png
+image: throwing_stones01.png 
 keywords:
   - Library
   - Tania Gibson
@@ -48,8 +48,8 @@ Meanwhile, a rather different story is unfolding in court regarding the Council 
 It seems Mayor Gibson wants to hunt with the hounds and run with the fox. On one side, she courts votes by vilifying a local business; on the other, she presides over an administration that struggles to meet basic water quality standards. The irony is not lost on Greymouth residents who simply want clean, reliable drinking water. Until the Mayor turns her scrutiny inward rather than outward—defending herself against TRP’s lawsuit while answering to Taumata Arowai — her campaign against Taylorville Resource Park will remain a masterclass in political deflection. After all, you cannot blame others for the puddle on the floor when your own roof is letting the rain through.
 
 
-
-<img class="img-fluid" src="https://greyblog.github.io/assets/img/throwing_stones01.png" alt="Greymouth Rates, Tania Gibson, Grey District Council, GDC, Grey, Mawhera, Local Government, Govt, greydc.govt.nz, Timothy Mora, Tim Mora, Jack O'Connor, Peter Davy, Allan Gibson, Robert Mallinson, Kate Kennedy, John Canning, Rex MacDonald, Francois Tumahai, Rates, Ratepayers, rate payers">
+<a href="https://greyblog.github.io/Tania-Gibson-Glass-Houses">
+<img class="img-fluid" src="https://greyblog.github.io/assets/img/throwing_stones01.png" alt="Greymouth Rates, Tania Gibson, Grey District Council, GDC, Grey, Mawhera, Local Government, Govt, greydc.govt.nz, Timothy Mora, Tim Mora, Jack O'Connor, Peter Davy, Allan Gibson, Robert Mallinson, Kate Kennedy, John Canning, Rex MacDonald, Francois Tumahai, Rates, Ratepayers, rate payers"></a>
 
 <span style="color:white">```js client</span>
 <script>
