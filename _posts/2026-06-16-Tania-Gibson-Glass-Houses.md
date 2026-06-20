@@ -2,10 +2,15 @@
 layout: post
 title: "Glass Houses and Water Worries: The Mayor’s Double Standard"
 author: "Grey Blog"
+og_url: "https://greyblog.github.io/Tania-Gibson-Glass-Houses.html"
+og_description: "Tania Gibson Mayor Grey District Council double standards water"
+og_title: "Tania Gibson Water Worries"
 og_image: "https://greyblog.github.io/assets/img/0123.jpeg"
 og_width: "1200"
 og_height: "630"
-og_type: "image/jpeg"
+og_type: "website"
+og_image_type: "image/jpeg"
+og_image_alt: "Tania Gibson Mayor Grey District GDC water double standards"
 categories: documentation
 tags: Grey District Council, GDC, Water, Tania Gibson, Hypocrisy
 image: 0123.jpeg
