@@ -13,16 +13,31 @@
 <meta name="description" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
 {% if page.og_image %}
-<meta name="og_image" content="{{ page.og_image | join: ', ' | escape }}">
+<meta property="og:image" content="{{ page.og_image | join: ', ' | escape }}">
 {% endif %}
 {% if page.og_width %}
-<meta name="og_width" content="{{ page.og_width | join: ', ' | escape }}">
+<meta property="og:width" content="{{ page.og_width | join: ', ' | escape }}">
 {% endif %}
 {% if page.og_height %}
-<meta name="og_height" content="{{ page.og_height | join: ', ' | escape }}">
+<meta property="og:height" content="{{ page.og_height | join: ', ' | escape }}">
 {% endif %}
 {% if page.og_type %}
-<meta name="og_type" content="{{ page.og_type | join: ', ' | escape }}">
+<meta property="og:type" content="{{ page.og_type | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_image_type %}
+<meta property="og:image:type" content="{{ page.og_type | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_image_alt %}
+<meta property="og:image:alt" content="{{ page.og_type | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_url %}
+<meta property="og:url" content="{{ page.og_type | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_description %}
+<meta property="og:description" content="{{ page.og_type | join: ', ' | escape }}">
+{% endif %}
+{% if page.og_title %}
+<meta property="og:title" content="{{ page.og_type | join: ', ' | escape }}">
 {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
