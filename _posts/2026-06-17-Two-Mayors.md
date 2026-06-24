@@ -30,9 +30,9 @@ description:
 ---
 **"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us"** Charles Dickens
 
-The economic stewardship of a local government profoundly impacts the lives of its residents, especially ratepayers who bear the financial weight of council decisions. In the Grey District, the contrasting approaches of two recent mayors — Tony Kookshorn and Tania Gibson — offer a revealing case study in economic management, fiscal responsibility, and the balancing act between infrastructure needs and ratepayer affordability.
+The economic stewardship of a local government profoundly impacts the lives of its residents, especially ratepayers who bear the financial weight of council decisions. In the Grey District, the contrasting approaches of two recent mayors — Tony Kokshorn and Tania Gibson — offer a revealing case study in economic management, fiscal responsibility, and the balancing act between infrastructure needs and ratepayer affordability.
 
-By nearly every measurable economic standard, Tania Gibson inherited from Tony Kookshorn a healthy and sustainable financial foundation. Ratepayers who had become accustomed to a prudent and fiscally responsible reign under Tony Kookshorn were unfortunately in for a shock.
+By nearly every measurable economic standard, Tania Gibson inherited from Tony Kokshorn a healthy and sustainable financial foundation. Ratepayers who had become accustomed to a prudent and fiscally responsible reign under Tony Kokshorn were unfortunately in for a shock.
 
 The table below illustrates just how badly the Grey District Council has been governed in recent years and the cost to ratepayers.
 
@@ -46,7 +46,7 @@ The table below illustrates just how badly the Grey District Council has been go
 </td>
 <td valign="top">
 <p><b>Under&nbsp;Tony
-Kookshorn&nbsp;(up to 2019)</b></p>
+Kokshorn&nbsp;(up to 2019)</b></p>
 <meta http-equiv="content-type" content="text/html;
 charset=UTF-8">
 <title></title>
@@ -301,7 +301,7 @@ p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
 
 The financial management differences between the two mayors have direct consequences for ratepayers:
 
-Under Kookshorn, ratepayers benefited from moderate, predictable rate increases and a council that avoided excessive debt, reducing the risk of future rate shocks.
+Under Kokshorn, ratepayers benefited from moderate, predictable rate increases and a council that avoided excessive debt, reducing the risk of future rate shocks.
 
 Under Gibson, ratepayers face higher rates and the prospect of increased debt servicing costs, which could translate into further rate rises or reduced council services in the future.
 
@@ -309,7 +309,7 @@ Grey District Council's financial position has deteriorated notably between 2019
 
 There can be very little doubt that Tania Gibson’s leadership has led to a perilous financial situation for the ratepayers of the Grey District. Tania will undoubtedly claim that she has taken a proactive approach to growth and infrastructure development, which comes with financial trade-offs.
 
-The rising deficits and debt levels under Tania’s administration contrast with the more conservative and stable fiscal management of Tony Kookshorn. For ratepayers, this means a heavier financial burden today and potentially in the future. Tony Kookshorn’s legacy of fiscal prudence and balanced economic management remains a benchmark for sustainable local government finance in the Grey District.
+The rising deficits and debt levels under Tania’s administration contrast with the more conservative and stable fiscal management of Tony Kokshorn. For ratepayers, this means a heavier financial burden today and potentially in the future. Tony Kokshorn’s legacy of fiscal prudence and balanced economic management remains a benchmark for sustainable local government finance in the Grey District.
 
 <img class="img-fluid" src="https://greyblog.github.io/assets/img/twomayors.jpeg" alt="Greymouth Rates, Tania Gibson, Grey District Council, GDC, Grey, Mawhera, Local Government, Govt, greydc.govt.nz, Rates, Ratepayers, rate payers">
 
